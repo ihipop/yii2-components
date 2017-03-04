@@ -1,21 +1,22 @@
 {
   "name": "ihipop/yii2-components",
   "type": "yii2-extension",
-  "description": "The Extended yii2 components  for the Yii framework 2.0 封装和补充了一些工作中常用的Yii框架中缺少或者不满足需要的方法和类。",
+  "description": "The Extended yii2 components  for the Yii framework 2.0 封装和补充了一些工作中常用的Yii框架中缺少或者不满足需要的组件、方法、和类。",
   "keywords": [
     "yii2",
     "components ",
-    "Extend"
+    "Extend",
+    "组件",
+    "扩展"
   ],
-  "license": "BSD",
+  "license": "BSD-3-Clause",
   "support": {
-    "issues": "xxx",
-    "wiki": "xxx",
-    "source": "xxx"
+    "issues": "https://github.com/ihipop/yii2-components/issues",
+    "source": "https://github.com/ihipop/yii2-components"
   },
   "authors": [
     {
-      "name": "xxx",
+      "name": "ihipop",
       "email": "ihipop+yii@gmail.com"
     }
   ],
