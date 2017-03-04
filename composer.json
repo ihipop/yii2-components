@@ -1,0 +1,30 @@
+{
+  "name": "ihipop/yii2-components",
+  "type": "yii2-extension",
+  "description": "The Extended yii2 components  for the Yii framework 2.0 封装和补充了一些工作中常用的Yii框架中缺少或者不满足需要的方法和类。",
+  "keywords": [
+    "yii2",
+    "components ",
+    "Extend"
+  ],
+  "license": "BSD",
+  "support": {
+    "issues": "xxx",
+    "wiki": "xxx",
+    "source": "xxx"
+  },
+  "authors": [
+    {
+      "name": "xxx",
+      "email": "ihipop+yii@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ihipop\\yii2\\": ""
+    }
+  }
+}
