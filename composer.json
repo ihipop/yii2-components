@@ -20,6 +20,7 @@
       "email": "ihipop+yii@gmail.com"
     }
   ],
+  "minimum-stability": "dev",
   "require": {
     "yiisoft/yii2": "*"
   },
